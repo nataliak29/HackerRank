@@ -1,2 +1,4 @@
 # HackerRank
-my solutions for HackerRank's problems
+My solutions for HackerRank's problems
+https://www.hackerrank.com
+https://www.hackerrank.com/n_a_kukushkina
