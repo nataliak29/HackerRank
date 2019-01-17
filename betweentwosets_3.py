@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/between-two-sets/problem
 a=[2,4]
 b=[16,32,96]
 
