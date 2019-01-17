@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+#https://www.hackerrank.com/challenges/the-birthday-bar/problem
 s=[2,2,1,3,2]
 d=4
 m=2
